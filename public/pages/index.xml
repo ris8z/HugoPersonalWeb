@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Awesome Hugo blog</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Awesome Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/pages/resume/</link>
+      <pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate>
+      
+      <guid>http://localhost:1313/pages/resume/</guid>
+      
+      <description>&lt;h2 id=&#34;third-level-education&#34;&gt;Third Level Education&lt;/h2&gt;
+&lt;h3 id=&#34;2nd-year-results&#34;&gt;2nd year results:&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Subject&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Results %&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Operating Systems&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;97&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Introduction to DevOps&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;95&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Linear Algebra&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;91&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Logic&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;91&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Full Stack Development&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;91&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Probability &amp;amp; Statistics&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;90&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Computer Programming 4 (Object Oriented Prog)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;89&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Systems Programming&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;87&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Introduction to Databases&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;86&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Systems Analysis&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;76&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Computer Programming 3 (Data Struct. &amp;amp; Alg.)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;73&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Software Testing&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;70&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;2nd year overall grade: 1.1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PassList overall ranking 5&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;second-level-education&#34;&gt;Second Level Education&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Subjects&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Italian mark&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Results&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;English&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;History&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Philosophy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Civic Education&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Natural Sciences&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Physical Education&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mathematics&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Physics&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Italian&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Latin&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Art History&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;H5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;(Italian) Final Exam&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;90/100&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;524&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;CAO Points: 524&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

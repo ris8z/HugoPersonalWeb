@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Awesome Hugo blog</title><link>https://hba.sid.one/pages/</link><description>Recent content in Pages on Awesome Hugo blog</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://hba.sid.one/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://hba.sid.one/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://hba.sid.one/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
+&lt;h3 id="2nd-year-results">2nd year results:&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Subject&lt;/th>
+ &lt;th style="text-align: left">Results %&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Operating Systems&lt;/td>
+ &lt;td style="text-align: left">97&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Introduction to DevOps&lt;/td>
+ &lt;td style="text-align: left">95&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Linear Algebra&lt;/td>
+ &lt;td style="text-align: left">91&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Logic&lt;/td>
+ &lt;td style="text-align: left">91&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Full Stack Development&lt;/td>
+ &lt;td style="text-align: left">91&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Probability &amp;amp; Statistics&lt;/td>
+ &lt;td style="text-align: left">90&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Computer Programming 4 (Object Oriented Prog)&lt;/td>
+ &lt;td style="text-align: left">89&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Systems Programming&lt;/td>
+ &lt;td style="text-align: left">87&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Introduction to Databases&lt;/td>
+ &lt;td style="text-align: left">86&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Systems Analysis&lt;/td>
+ &lt;td style="text-align: left">76&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Computer Programming 3 (Data Struct. &amp;amp; Alg.)&lt;/td>
+ &lt;td style="text-align: left">73&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Software Testing&lt;/td>
+ &lt;td style="text-align: left">70&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>2nd year overall grade: 1.1&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>PassList overall ranking 5&lt;/strong>&lt;/p>
+&lt;h2 id="second-level-education">Second Level Education&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Subjects&lt;/th>
+ &lt;th style="text-align: left">Italian mark&lt;/th>
+ &lt;th style="text-align: left">Results&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">English&lt;/td>
+ &lt;td style="text-align: left">10/10&lt;/td>
+ &lt;td style="text-align: left">H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">History&lt;/td>
+ &lt;td style="text-align: left">10/10&lt;/td>
+ &lt;td style="text-align: left">H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Philosophy&lt;/td>
+ &lt;td style="text-align: left">10/10&lt;/td>
+ &lt;td style="text-align: left">H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Civic Education&lt;/td>
+ &lt;td style="text-align: left">10/10&lt;/td>
+ &lt;td style="text-align: left">H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Natural Sciences&lt;/td>
+ &lt;td style="text-align: left">9/10&lt;/td>
+ &lt;td style="text-align: left">H2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Physical Education&lt;/td>
+ &lt;td style="text-align: left">9/10&lt;/td>
+ &lt;td style="text-align: left">H2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Mathematics&lt;/td>
+ &lt;td style="text-align: left">8/10&lt;/td>
+ &lt;td style="text-align: left">H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Physics&lt;/td>
+ &lt;td style="text-align: left">8/10&lt;/td>
+ &lt;td style="text-align: left">H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Italian&lt;/td>
+ &lt;td style="text-align: left">8/10&lt;/td>
+ &lt;td style="text-align: left">H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Latin&lt;/td>
+ &lt;td style="text-align: left">8/10&lt;/td>
+ &lt;td style="text-align: left">H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Art History&lt;/td>
+ &lt;td style="text-align: left">7/10&lt;/td>
+ &lt;td style="text-align: left">H5&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">(Italian) Final Exam&lt;/td>
+ &lt;td style="text-align: left">90/100&lt;/td>
+ &lt;td style="text-align: left">524&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>CAO Points: 524&lt;/strong>&lt;/p></description></item></channel></rss>

@@ -3,58 +3,58 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Subject&lt;/th>
- &lt;th style="text-align: left">Results %&lt;/th>
+ &lt;th>Subject&lt;/th>
+ &lt;th>Results %&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Operating Systems&lt;/td>
- &lt;td style="text-align: left">97&lt;/td>
+ &lt;td>Operating Systems&lt;/td>
+ &lt;td>97&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Introduction to DevOps&lt;/td>
- &lt;td style="text-align: left">95&lt;/td>
+ &lt;td>Introduction to DevOps&lt;/td>
+ &lt;td>95&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Linear Algebra&lt;/td>
- &lt;td style="text-align: left">91&lt;/td>
+ &lt;td>Linear Algebra&lt;/td>
+ &lt;td>91&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Logic&lt;/td>
- &lt;td style="text-align: left">91&lt;/td>
+ &lt;td>Logic&lt;/td>
+ &lt;td>91&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Full Stack Development&lt;/td>
- &lt;td style="text-align: left">91&lt;/td>
+ &lt;td>Full Stack Development&lt;/td>
+ &lt;td>91&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Probability &amp;amp; Statistics&lt;/td>
- &lt;td style="text-align: left">90&lt;/td>
+ &lt;td>Probability &amp;amp; Statistics&lt;/td>
+ &lt;td>90&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Computer Programming 4 (Object Oriented Prog)&lt;/td>
- &lt;td style="text-align: left">89&lt;/td>
+ &lt;td>Computer Programming 4 (Object Oriented Prog)&lt;/td>
+ &lt;td>89&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Systems Programming&lt;/td>
- &lt;td style="text-align: left">87&lt;/td>
+ &lt;td>Systems Programming&lt;/td>
+ &lt;td>87&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Introduction to Databases&lt;/td>
- &lt;td style="text-align: left">86&lt;/td>
+ &lt;td>Introduction to Databases&lt;/td>
+ &lt;td>86&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Systems Analysis&lt;/td>
- &lt;td style="text-align: left">76&lt;/td>
+ &lt;td>Systems Analysis&lt;/td>
+ &lt;td>76&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Computer Programming 3 (Data Struct. &amp;amp; Alg.)&lt;/td>
- &lt;td style="text-align: left">73&lt;/td>
+ &lt;td>Computer Programming 3 (Data Struct. &amp;amp; Alg.)&lt;/td>
+ &lt;td>73&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Software Testing&lt;/td>
- &lt;td style="text-align: left">70&lt;/td>
+ &lt;td>Software Testing&lt;/td>
+ &lt;td>70&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -64,71 +64,71 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Subjects&lt;/th>
- &lt;th style="text-align: left">Italian mark&lt;/th>
- &lt;th style="text-align: left">Results&lt;/th>
+ &lt;th>Subjects&lt;/th>
+ &lt;th>Italian mark&lt;/th>
+ &lt;th>Results&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">English&lt;/td>
- &lt;td style="text-align: left">10/10&lt;/td>
- &lt;td style="text-align: left">H1&lt;/td>
+ &lt;td>English&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">History&lt;/td>
- &lt;td style="text-align: left">10/10&lt;/td>
- &lt;td style="text-align: left">H1&lt;/td>
+ &lt;td>History&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Philosophy&lt;/td>
- &lt;td style="text-align: left">10/10&lt;/td>
- &lt;td style="text-align: left">H1&lt;/td>
+ &lt;td>Philosophy&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Civic Education&lt;/td>
- &lt;td style="text-align: left">10/10&lt;/td>
- &lt;td style="text-align: left">H1&lt;/td>
+ &lt;td>Civic Education&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Natural Sciences&lt;/td>
- &lt;td style="text-align: left">9/10&lt;/td>
- &lt;td style="text-align: left">H2&lt;/td>
+ &lt;td>Natural Sciences&lt;/td>
+ &lt;td>9/10&lt;/td>
+ &lt;td>H2&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Physical Education&lt;/td>
- &lt;td style="text-align: left">9/10&lt;/td>
- &lt;td style="text-align: left">H2&lt;/td>
+ &lt;td>Physical Education&lt;/td>
+ &lt;td>9/10&lt;/td>
+ &lt;td>H2&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Mathematics&lt;/td>
- &lt;td style="text-align: left">8/10&lt;/td>
- &lt;td style="text-align: left">H3&lt;/td>
+ &lt;td>Mathematics&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Physics&lt;/td>
- &lt;td style="text-align: left">8/10&lt;/td>
- &lt;td style="text-align: left">H3&lt;/td>
+ &lt;td>Physics&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Italian&lt;/td>
- &lt;td style="text-align: left">8/10&lt;/td>
- &lt;td style="text-align: left">H3&lt;/td>
+ &lt;td>Italian&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Latin&lt;/td>
- &lt;td style="text-align: left">8/10&lt;/td>
- &lt;td style="text-align: left">H3&lt;/td>
+ &lt;td>Latin&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Art History&lt;/td>
- &lt;td style="text-align: left">7/10&lt;/td>
- &lt;td style="text-align: left">H5&lt;/td>
+ &lt;td>Art History&lt;/td>
+ &lt;td>7/10&lt;/td>
+ &lt;td>H5&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">(Italian) Final Exam&lt;/td>
- &lt;td style="text-align: left">90/100&lt;/td>
- &lt;td style="text-align: left">524&lt;/td>
+ &lt;td>(Italian) Final Exam&lt;/td>
+ &lt;td>90/100&lt;/td>
+ &lt;td>524&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>

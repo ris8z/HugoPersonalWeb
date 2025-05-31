@@ -1,3 +1,141 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Awesome Hugo blog</title><link>https://ris8z.github.io/HugoPersonalWeb/</link><description>Recent content in Home on Awesome Hugo blog</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://ris8z.github.io/HugoPersonalWeb/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://ris8z.github.io/HugoPersonalWeb/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/pages/resume/</guid><description>Third Level Education 2nd year results: Subject Results % Operating Systems 97 Introduction to DevOps 95 Linear Algebra 91 Logic 91 Full Stack Development 91 Probability &amp;amp; Statistics 90 Computer Programming 4 (Object Oriented Prog) 89 Systems Programming 87 Introduction to Databases 86 Systems Analysis 76 Computer Programming 3 (Data Struct. &amp;amp; Alg.) 73 Software Testing 70 2nd year overall grade: 1.1
-PassList overall ranking 5
-Second Level Education Subjects Italian mark Results English 10/10 H1 History 10/10 H1 Philosophy 10/10 H1 Civic Education 10/10 H1 Natural Sciences 9/10 H2 Physical Education 9/10 H2 Mathematics 8/10 H3 Physics 8/10 H3 Italian 8/10 H3 Latin 8/10 H3 Art History 7/10 H5 (Italian) Final Exam 90/100 524 CAO Points: 524</description></item><item><title>Rendering a 3D Donut in the terminal</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/rendering-3d-donut/</link><pubDate>Tue, 11 Jun 2024 22:04:07 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/rendering-3d-donut/</guid><description>Rendering a 3D Donut in the terminal: created from scratch using C and concepts such as Prospective, Light Model , Matrix Transformation. This project increased understanding of Linear Algebra.</description></item><item><title>Snake Game in C</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/simple-snake-game/</link><pubDate>Fri, 12 Apr 2024 02:19:55 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/simple-snake-game/</guid><description>qualcosa game in c very isi</description></item><item><title>Own shell in C</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/terminal-emuletor/</link><pubDate>Mon, 11 Mar 2024 22:04:04 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/terminal-emuletor/</guid><description>Own Shell: developed using C, can handle input file (batch mode), I/O redirection, background mode and simple error handling. Forking process and file descriptor concepts have been used. Also created a comprehensive documentation and a short user manual.</description></item><item><title>Python Minecraft Farming BOT</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/minecraft-farm-bot/</link><pubDate>Mon, 11 Dec 2023 22:04:07 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/minecraft-farm-bot/</guid><description>Python Minecraft Farming BOT: implemented using pyauto, time and keyboard modules. Designed to automate the boring aspects of the game, even add some basic logic to read the logs and understand the best time to start and stop selling items</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Awesome Hugo blog</title><link>https://ris8z.github.io/HugoPersonalWeb/</link><description>Recent content in Home on Awesome Hugo blog</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://ris8z.github.io/HugoPersonalWeb/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://ris8z.github.io/HugoPersonalWeb/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
+&lt;h3 id="2nd-year-results">2nd year results:&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Subject&lt;/th>
+ &lt;th>Results %&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Operating Systems&lt;/td>
+ &lt;td>97&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Introduction to DevOps&lt;/td>
+ &lt;td>95&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Linear Algebra&lt;/td>
+ &lt;td>91&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Logic&lt;/td>
+ &lt;td>91&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Full Stack Development&lt;/td>
+ &lt;td>91&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Probability &amp;amp; Statistics&lt;/td>
+ &lt;td>90&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Computer Programming 4 (Object Oriented Prog)&lt;/td>
+ &lt;td>89&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Systems Programming&lt;/td>
+ &lt;td>87&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Introduction to Databases&lt;/td>
+ &lt;td>86&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Systems Analysis&lt;/td>
+ &lt;td>76&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Computer Programming 3 (Data Struct. &amp;amp; Alg.)&lt;/td>
+ &lt;td>73&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Software Testing&lt;/td>
+ &lt;td>70&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>2nd year overall grade: 1.1&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>PassList overall ranking 5&lt;/strong>&lt;/p>
+&lt;h2 id="second-level-education">Second Level Education&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Subjects&lt;/th>
+ &lt;th>Italian mark&lt;/th>
+ &lt;th>Results&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>English&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>History&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Philosophy&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Civic Education&lt;/td>
+ &lt;td>10/10&lt;/td>
+ &lt;td>H1&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Natural Sciences&lt;/td>
+ &lt;td>9/10&lt;/td>
+ &lt;td>H2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Physical Education&lt;/td>
+ &lt;td>9/10&lt;/td>
+ &lt;td>H2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Mathematics&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Physics&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Italian&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Latin&lt;/td>
+ &lt;td>8/10&lt;/td>
+ &lt;td>H3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Art History&lt;/td>
+ &lt;td>7/10&lt;/td>
+ &lt;td>H5&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>(Italian) Final Exam&lt;/td>
+ &lt;td>90/100&lt;/td>
+ &lt;td>524&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>CAO Points: 524&lt;/strong>&lt;/p></description></item><item><title>Rendering a 3D Donut in the terminal</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/rendering-3d-donut/</link><pubDate>Tue, 11 Jun 2024 22:04:07 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/rendering-3d-donut/</guid><description>&lt;p>Rendering a 3D Donut in the terminal: created from scratch using C and concepts such as
+Prospective, Light Model , Matrix Transformation. This project increased understanding of Linear
+Algebra.&lt;/p></description></item><item><title>Snake Game in C</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/simple-snake-game/</link><pubDate>Fri, 12 Apr 2024 02:19:55 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/simple-snake-game/</guid><description>&lt;p>qualcosa game in c very isi&lt;/p></description></item><item><title>Own shell in C</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/terminal-emuletor/</link><pubDate>Mon, 11 Mar 2024 22:04:04 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/terminal-emuletor/</guid><description>&lt;p>Own Shell: developed using C, can handle input file (batch mode), I/O redirection, background
+mode and simple error handling. Forking process and file descriptor concepts have been used. Also
+created a comprehensive documentation and a short user manual.&lt;/p></description></item><item><title>Python Minecraft Farming BOT</title><link>https://ris8z.github.io/HugoPersonalWeb/projects/minecraft-farm-bot/</link><pubDate>Mon, 11 Dec 2023 22:04:07 +0100</pubDate><guid>https://ris8z.github.io/HugoPersonalWeb/projects/minecraft-farm-bot/</guid><description>&lt;p>Python Minecraft Farming BOT: implemented using pyauto, time and keyboard modules. Designed
+to automate the boring aspects of the game, even add some basic logic to read the logs and
+understand the best time to start and stop selling items&lt;/p></description></item></channel></rss>

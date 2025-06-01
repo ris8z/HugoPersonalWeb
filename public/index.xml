@@ -30,31 +30,23 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;it-skills--projects&#34;&gt;IT Skills &amp;amp; Projects&lt;/h2&gt;
 &lt;h3 id=&#34;it-skills&#34;&gt;IT Skills&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, Java, C, JavaScript, Prolog, R, Haskell&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Back-end:&lt;/strong&gt; Django, Flask (Python); Spring Boot (Java)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DevOps:&lt;/strong&gt; Git, GitHub, GitLab, Docker, Shell scripting, AWS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Back-end:&lt;/strong&gt; Django, Flask (Python); Spring Boot, custom legacy Java frameworks&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Front-end:&lt;/strong&gt; React, Bootstrap, HTML5/CSS3&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Operating Systems:&lt;/strong&gt;  confident with GNU/Linux and terminal environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DevOps:&lt;/strong&gt; Git, GitHub, GitLab, Docker, Shell scripting, AWS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operating Systems:&lt;/strong&gt; Confident with GNU/Linux and terminal environments&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Networking &amp;amp; Systems:&lt;/strong&gt; OSI model, load balancing, system architecture principles&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workflow:&lt;/strong&gt; Vim/Neovim user, strong command line proficiency&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;it-projects-completed&#34;&gt;IT Projects Completed&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Python Minecraft Farming BOT&lt;/strong&gt;: implemented using pyauto, time and keyboard modules. Designed
-to automate the boring aspects of the game, even add some basic logic to read the logs and
-understand the best time to start and stop selling items.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rendering a 3D Donut&lt;/strong&gt; in the terminal: created from scratch using C and concepts such as
-Prospective, Light Model , Matrix Transformation. This project increased understanding of Linear
-Algebra.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Own Shell&lt;/strong&gt;: developed using C, can handle input file (batch mode), I/O redirection, background
-mode and simple error handling. Forking process and file descriptor concepts have been used. Also
-created a comprehensive documentation and a short user manual.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Amazon Web Services (AWS)&lt;/strong&gt;           &lt;br&gt;
-&lt;em&gt;Software Engineer Intern (Mar 2025 - Present)&lt;/em&gt;&lt;/p&gt;</description>
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python Minecraft Farming BOT&lt;/strong&gt;&lt;br&gt;
+Built using &lt;code&gt;pyautogui&lt;/code&gt;, &lt;code&gt;time&lt;/code&gt;, and &lt;code&gt;keyboard&lt;/code&gt; modules. Designed to automate repetitive in-game tasks and included basic logic to parse logs and determine optimal timing for item selling.&lt;/p&gt;</description>
       
     </item>
     

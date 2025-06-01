@@ -1,135 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Awesome Hugo blog</title><link>https://www.ris8z.com/pages/</link><description>Recent content in Pages on Awesome Hugo blog</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://www.ris8z.com/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://www.ris8z.com/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://www.ris8z.com/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
-&lt;h3 id="2nd-year-results">2nd year results:&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Subject&lt;/th>
- &lt;th>Results %&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>Operating Systems&lt;/td>
- &lt;td>97&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Introduction to DevOps&lt;/td>
- &lt;td>95&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Linear Algebra&lt;/td>
- &lt;td>91&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Logic&lt;/td>
- &lt;td>91&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Full Stack Development&lt;/td>
- &lt;td>91&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Probability &amp;amp; Statistics&lt;/td>
- &lt;td>90&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Computer Programming 4 (Object Oriented Prog)&lt;/td>
- &lt;td>89&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Systems Programming&lt;/td>
- &lt;td>87&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Introduction to Databases&lt;/td>
- &lt;td>86&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Systems Analysis&lt;/td>
- &lt;td>76&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Computer Programming 3 (Data Struct. &amp;amp; Alg.)&lt;/td>
- &lt;td>73&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Software Testing&lt;/td>
- &lt;td>70&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>&lt;strong>2nd year overall grade: 1.1&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>PassList overall ranking 5&lt;/strong>&lt;/p>
-&lt;h2 id="second-level-education">Second Level Education&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Subjects&lt;/th>
- &lt;th>Italian mark&lt;/th>
- &lt;th>Results&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>English&lt;/td>
- &lt;td>10/10&lt;/td>
- &lt;td>H1&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>History&lt;/td>
- &lt;td>10/10&lt;/td>
- &lt;td>H1&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Philosophy&lt;/td>
- &lt;td>10/10&lt;/td>
- &lt;td>H1&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Civic Education&lt;/td>
- &lt;td>10/10&lt;/td>
- &lt;td>H1&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Natural Sciences&lt;/td>
- &lt;td>9/10&lt;/td>
- &lt;td>H2&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Physical Education&lt;/td>
- &lt;td>9/10&lt;/td>
- &lt;td>H2&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Mathematics&lt;/td>
- &lt;td>8/10&lt;/td>
- &lt;td>H3&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Physics&lt;/td>
- &lt;td>8/10&lt;/td>
- &lt;td>H3&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Italian&lt;/td>
- &lt;td>8/10&lt;/td>
- &lt;td>H3&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Latin&lt;/td>
- &lt;td>8/10&lt;/td>
- &lt;td>H3&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Art History&lt;/td>
- &lt;td>7/10&lt;/td>
- &lt;td>H5&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>(Italian) Final Exam&lt;/td>
- &lt;td>90/100&lt;/td>
- &lt;td>524&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>&lt;strong>CAO Points: 524&lt;/strong>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on ris8z</title><link>https://www.ris8z.com/pages/</link><description>Recent content in Pages on ris8z</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://www.ris8z.com/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://www.ris8z.com/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://www.ris8z.com/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
+&lt;p>&lt;strong>Dublin City University (DCU), Ireland&lt;/strong>&lt;br>
+&lt;em>B.Sc. in Computer Applications – Year 3 (Ongoing)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Achieved a &lt;strong>First Class Honours (1.1)&lt;/strong> in 2nd year&lt;/li>
+&lt;li>Ranked &lt;strong>Top 5 overall&lt;/strong> in the 2nd year &lt;em>PassList&lt;/em>&lt;/li>
+&lt;li>Strong results across core modules, including:
+&lt;ul>
+&lt;li>&lt;strong>Operating Systems:&lt;/strong> 97%&lt;/li>
+&lt;li>&lt;strong>DevOps:&lt;/strong> 95%&lt;/li>
+&lt;li>&lt;strong>Linear Algebra, Logic, Full Stack Development:&lt;/strong> 91%&lt;/li>
+&lt;li>&lt;strong>Probability &amp;amp; Statistics:&lt;/strong> 90%&lt;/li>
+&lt;li>&lt;strong>Object-Oriented Programming (Java):&lt;/strong> 89%&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="it-skills--projects">IT Skills &amp;amp; Projects&lt;/h2>
+&lt;h3 id="it-skills">IT Skills&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Languages:&lt;/strong> Python, Java, C, JavaScript, Prolog, R, Haskell&lt;/li>
+&lt;li>&lt;strong>Back-end:&lt;/strong> Django, Flask (Python); Spring Boot, custom legacy Java frameworks&lt;/li>
+&lt;li>&lt;strong>Front-end:&lt;/strong> React, Bootstrap, HTML5/CSS3&lt;/li>
+&lt;li>&lt;strong>DevOps:&lt;/strong> Git, GitHub, GitLab, Docker, Shell scripting, AWS&lt;/li>
+&lt;li>&lt;strong>Operating Systems:&lt;/strong> Confident with GNU/Linux and terminal environments&lt;/li>
+&lt;li>&lt;strong>Networking &amp;amp; Systems:&lt;/strong> OSI model, load balancing, system architecture principles&lt;/li>
+&lt;li>&lt;strong>Workflow:&lt;/strong> Vim/Neovim user, strong command line proficiency&lt;/li>
+&lt;/ul>
+&lt;h3 id="it-projects-completed">IT Projects Completed&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Python Minecraft Farming BOT&lt;/strong>&lt;br>
+Built using &lt;code>pyautogui&lt;/code>, &lt;code>time&lt;/code>, and &lt;code>keyboard&lt;/code> modules. Designed to automate repetitive in-game tasks and included basic logic to parse logs and determine optimal timing for item selling.&lt;/p></description></item></channel></rss>

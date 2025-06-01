@@ -50,7 +50,7 @@ draft = false
 **Amazon Web Services (AWS)**  
 *Software Engineer Intern* — *Mar 2025 – Present*
 
-- Working in the **CloudWatch** team, contributing to a large-scale, high-throughput internal API  
+- Working in **CloudWatch**, contributing to a large-scale, high-throughput internal API  
 - Focused on developing effective testing strategies to improve reliability and observability  
 - Dealing with a legacy Java framework from the early 2000s, while also leveraging **NAWS**  
 - Gained hands-on experience with distributed systems, internal tooling, and collaborative team dynamics in a fast-paced environment

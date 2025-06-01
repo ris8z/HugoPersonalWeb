@@ -6,53 +6,27 @@ draft = false
 
 ## Third Level Education
 
-### 2nd year results:
+**Dublin City University (DCU), Ireland**  
+*B.Sc. in Computer Applications – Year 3 (Ongoing)*
 
-| Subject | Results % |
-|--------------- | --------------- |
-| Operating Systems | 97|
-| Introduction to DevOps|95|
-| Linear Algebra| 91|
-| Logic | 91|
-| Full Stack Development| 91|
-| Probability & Statistics| 90|
-| Computer Programming 4 (Object Oriented Prog)| 89|
-|Systems Programming |87|
-|Introduction to Databases |86|
-|Systems Analysis |76|
-|Computer Programming 3 (Data Struct. & Alg.) |73|
-|Software Testing |70|
+- Achieved a **First Class Honours (1.1)** in 2nd year  
+- Ranked **Top 5 overall** in the 2nd year *PassList*  
+- Strong results across core modules, including:
+  - **Operating Systems:** 97%
+  - **DevOps:** 95%
+  - **Linear Algebra, Logic, Full Stack Development:** 91%
+  - **Probability & Statistics:** 90%
+  - **Object-Oriented Programming (Java):** 89%
 
-**2nd year overall grade: 1.1**
-
-**PassList overall ranking 5**
-
-## Second Level Education
-  
-| Subjects|Italian mark| Results|
-| --------------- | --------------- | --------------- |
-| English | 10/10   |H1|
-|History |10/10 |H1|
-|Philosophy |10/10 |H1|
-|Civic Education |10/10 |H1|
-|Natural Sciences |9/10 |H2|
-|Physical Education |9/10 |H2|
-|Mathematics |8/10 |H3|
-|Physics |8/10 |H3|
-|Italian |8/10 |H3|
-|Latin |8/10 |H3|
-|Art History |7/10 |H5|
-|(Italian) Final Exam |90/100 |524|
-
-**CAO Points: 524**
 ## IT Skills & Projects
 ### IT Skills
-- **Languages**: Experienced in Python, C, Java, Prolog, Javascript, R, Haskell.
-- **Back-end**: Used Django and Flask.
-- **Front-end**: React, Bootstrap, HTML/CSS.
-- **DevOps**: Git, Docker, Shell-Scripting, Github, Gitlab.
-- **Operating System**: Confident with GNU/UNIX and Windows.
-- **Database**: SQL, UML.
+- **Languages:** Python, Java, C, JavaScript, Prolog, R, Haskell
+- **Back-end:** Django, Flask (Python); Spring Boot (Java)
+- **DevOps:** Git, GitHub, GitLab, Docker, Shell scripting, AWS 
+- **Front-end:** React, Bootstrap, HTML5/CSS3
+- **Operating Systems:**  confident with GNU/Linux and terminal environments
+- **Networking & Systems:** OSI model, load balancing, system architecture principles
+
 ### IT Projects Completed
 1. **Python Minecraft Farming BOT**: implemented using pyauto, time and keyboard modules. Designed
 to automate the boring aspects of the game, even add some basic logic to read the logs and
@@ -65,25 +39,24 @@ mode and simple error handling. Forking process and file descriptor concepts hav
 created a comprehensive documentation and a short user manual.
 ## Work Experience
 
-DCU-School of Computing
-Temporary Student Helper
-Sept 2023 – April 2024
-- Provided programming support to 1st year undergraduate students during lab
-sessions for two modules, assisting approximately 15-20 students per session.
-- Focused on fundamental programming concepts and problem-solving skills in the 1st
-module. Helped students understand key principles such as loops, conditionals, and
-algorithms.
-- Concentrated on Python's distinctive characteristics and functionality in the 2nd
-module. Offered assistance with advanced Python features such as list
-comprehensions, classes, and error handling.
-- Clearly explained complex programming concepts and promoted a collaborative
-learning environment, improving student performance and confidence.
-## Interests/Awards & Achievements
+**Amazon Web Services (AWS)**              
+*Software Engineer Intern (Mar 2025 - Present)*
 
-- Won 3rd place in Irish Collegiate Programming Competition [(Cork 2023)](https://www.insight-centre.org/team-bigboggerboys3-win-gold-at-the-irish-collegiate-programming-competition-2023/#:~:text=Team%20BigBoggerBoys3%20win%20gold%20at%20the%20Irish%20Collegiate%20Programming%20Competition%202023%20%2D%20Insight), Team LiMiGi
-(Micheal Cojocaru, Liam Collier and Giuseppe Esposito).
+- Working in  CloudWatch, contributing to a large-scale, high-throughput internal API.  
+- Focused on developing testing strategies, improving reliability and observability across services.  
+- Working mainly around legacy Java framework dating back to early 2000s, but also using NAWS 
+- Gained hands-on experience with large distributed systems, internal tooling, and teamwork in a fast-paced environment.
+
+**DCU-School of Computing**                      
+*Student Helper  (Sept 2023 – April 2024)*
+- Assisted 1st-year students in programming labs (~15–20 per session), supporting two core CS modules.  
+- Helped students grasp fundamental programming logic (loops, conditionals, algorithms) and Python-specific features (OOP, list comprehensions, error handling).  
+- Encouraged a collaborative learning environment, helping improve overall student engagement and performance.
+
+## Interests/Awards & Achievements
+- Won 1st place in [Artista Network coding competition (Dublin-DCU 2024)](https://www.linkedin.com/posts/redbrickdcu_huge-thanks-to-all-from-arista-networks-for-activity-7265846511609987076-QAVm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFP3G_AB5WNUZG8vO5hZArPk29kcUYXcJF8)
+- Won 3rd place in [Irish Collegiate Programming Competition (Cork-UCC 2023)](https://www.insight-centre.org/team-bigboggerboys3-win-gold-at-the-irish-collegiate-programming-competition-2023/#:~:text=Team%20BigBoggerBoys3%20win%20gold%20at%20the%20Irish%20Collegiate%20Programming%20Competition%202023%20%2D%20Insight)
 - Regular gym goer for 3 years, generally sports lover.
-- Italian driving licence.
 
 ## Referees
 

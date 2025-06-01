@@ -1,4 +1,4 @@
-title = "Awesome Hugo blog"
+title = "ris8z"
 baseURL = 'https://www.ris8z.com/'
 
 # This is what goes in <html lang="">
@@ -101,7 +101,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Giuseppe Esposito"
   name = "Giuseppe Esposito"
-  description = "I build things and solve problems"
+  description = "I love coding & problem-solving"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -123,7 +123,7 @@ url = "https://github.com/ris8z"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/giuseppe-esposito-b00931333/"
+url = "www.linkedin.com/in/ris8z"
 
 [[params.socialIcons]]
 name = "email"

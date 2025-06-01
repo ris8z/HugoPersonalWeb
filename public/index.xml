@@ -1,104 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on ris8z</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on ris8z</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/pages/resume/</link>
-      <pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate>
-      
-      <guid>http://localhost:1313/pages/resume/</guid>
-      
-      <description>&lt;h2 id=&#34;third-level-education&#34;&gt;Third Level Education&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Dublin City University (DCU), Ireland&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;B.Sc. in Computer Applications – Year 3 (Ongoing)&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Achieved a &lt;strong&gt;First Class Honours (1.1)&lt;/strong&gt; in 2nd year&lt;/li&gt;
-&lt;li&gt;Ranked &lt;strong&gt;Top 5 overall&lt;/strong&gt; in the 2nd year &lt;em&gt;PassList&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Strong results across core modules, including:
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Operating Systems:&lt;/strong&gt; 97%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DevOps:&lt;/strong&gt; 95%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Linear Algebra, Logic, Full Stack Development:&lt;/strong&gt; 91%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Probability &amp;amp; Statistics:&lt;/strong&gt; 90%&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Object-Oriented Programming (Java):&lt;/strong&gt; 89%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;it-skills--projects&#34;&gt;IT Skills &amp;amp; Projects&lt;/h2&gt;
-&lt;h3 id=&#34;it-skills&#34;&gt;IT Skills&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, Java, C, JavaScript, Prolog, R, Haskell&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Back-end:&lt;/strong&gt; Django, Flask (Python); Spring Boot, custom legacy Java frameworks&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Front-end:&lt;/strong&gt; React, Bootstrap, HTML5/CSS3&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DevOps:&lt;/strong&gt; Git, GitHub, GitLab, Docker, Shell scripting, AWS&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Operating Systems:&lt;/strong&gt; Confident with GNU/Linux and terminal environments&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Networking &amp;amp; Systems:&lt;/strong&gt; OSI model, load balancing, system architecture principles&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Workflow:&lt;/strong&gt; Vim/Neovim user, strong command line proficiency&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;it-projects-completed&#34;&gt;IT Projects Completed&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Python Minecraft Farming BOT&lt;/strong&gt;&lt;br&gt;
-Built using &lt;code&gt;pyautogui&lt;/code&gt;, &lt;code&gt;time&lt;/code&gt;, and &lt;code&gt;keyboard&lt;/code&gt; modules. Designed to automate repetitive in-game tasks and included basic logic to parse logs and determine optimal timing for item selling.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Rendering a 3D Donut in the terminal</title>
-      <link>http://localhost:1313/projects/rendering-3d-donut/</link>
-      <pubDate>Tue, 11 Jun 2024 22:04:07 +0100</pubDate>
-      
-      <guid>http://localhost:1313/projects/rendering-3d-donut/</guid>
-      
-      <description>&lt;p&gt;Rendering a 3D Donut in the terminal: created from scratch using C and concepts such as
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on ris8z</title><link>https://www.ris8z.com/</link><description>Recent content in Home on ris8z</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://www.ris8z.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://www.ris8z.com/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://www.ris8z.com/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
+&lt;p>&lt;strong>Dublin City University (DCU), Ireland&lt;/strong>&lt;br>
+&lt;em>B.Sc. in Computer Applications – Year 3 (Ongoing)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Achieved a &lt;strong>First Class Honours (1.1)&lt;/strong> in 2nd year&lt;/li>
+&lt;li>Ranked &lt;strong>Top 5 overall&lt;/strong> in the 2nd year &lt;em>PassList&lt;/em>&lt;/li>
+&lt;li>Strong results across core modules, including:
+&lt;ul>
+&lt;li>&lt;strong>Operating Systems:&lt;/strong> 97%&lt;/li>
+&lt;li>&lt;strong>DevOps:&lt;/strong> 95%&lt;/li>
+&lt;li>&lt;strong>Linear Algebra, Logic, Full Stack Development:&lt;/strong> 91%&lt;/li>
+&lt;li>&lt;strong>Probability &amp;amp; Statistics:&lt;/strong> 90%&lt;/li>
+&lt;li>&lt;strong>Object-Oriented Programming (Java):&lt;/strong> 89%&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="it-skills--projects">IT Skills &amp;amp; Projects&lt;/h2>
+&lt;h3 id="it-skills">IT Skills&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Languages:&lt;/strong> Python, Java, C, JavaScript, Prolog, R, Haskell&lt;/li>
+&lt;li>&lt;strong>Back-end:&lt;/strong> Django, Flask (Python); Spring Boot, custom legacy Java frameworks&lt;/li>
+&lt;li>&lt;strong>Front-end:&lt;/strong> React, Bootstrap, HTML5/CSS3&lt;/li>
+&lt;li>&lt;strong>DevOps:&lt;/strong> Git, GitHub, GitLab, Docker, Shell scripting, AWS&lt;/li>
+&lt;li>&lt;strong>Operating Systems:&lt;/strong> Confident with GNU/Linux and terminal environments&lt;/li>
+&lt;li>&lt;strong>Networking &amp;amp; Systems:&lt;/strong> OSI model, load balancing, system architecture principles&lt;/li>
+&lt;li>&lt;strong>Workflow:&lt;/strong> Vim/Neovim user, strong command line proficiency&lt;/li>
+&lt;/ul>
+&lt;h3 id="it-projects-completed">IT Projects Completed&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Python Minecraft Farming BOT&lt;/strong>&lt;br>
+Built using &lt;code>pyautogui&lt;/code>, &lt;code>time&lt;/code>, and &lt;code>keyboard&lt;/code> modules. Designed to automate repetitive in-game tasks and included basic logic to parse logs and determine optimal timing for item selling.&lt;/p></description></item><item><title>Rendering a 3D Donut in the terminal</title><link>https://www.ris8z.com/projects/rendering-3d-donut/</link><pubDate>Tue, 11 Jun 2024 22:04:07 +0100</pubDate><guid>https://www.ris8z.com/projects/rendering-3d-donut/</guid><description>&lt;p>Rendering a 3D Donut in the terminal: created from scratch using C and concepts such as
 Prospective, Light Model , Matrix Transformation. This project increased understanding of Linear
-Algebra.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Snake Game in C</title>
-      <link>http://localhost:1313/projects/simple-snake-game/</link>
-      <pubDate>Fri, 12 Apr 2024 02:19:55 +0100</pubDate>
-      
-      <guid>http://localhost:1313/projects/simple-snake-game/</guid>
-      
-      <description>&lt;p&gt;qualcosa game in c very isi&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Own shell in C</title>
-      <link>http://localhost:1313/projects/terminal-emuletor/</link>
-      <pubDate>Mon, 11 Mar 2024 22:04:04 +0100</pubDate>
-      
-      <guid>http://localhost:1313/projects/terminal-emuletor/</guid>
-      
-      <description>&lt;p&gt;Own Shell: developed using C, can handle input file (batch mode), I/O redirection, background
+Algebra.&lt;/p></description></item><item><title>Snake Game in C</title><link>https://www.ris8z.com/projects/simple-snake-game/</link><pubDate>Fri, 12 Apr 2024 02:19:55 +0100</pubDate><guid>https://www.ris8z.com/projects/simple-snake-game/</guid><description>&lt;p>qualcosa game in c very isi&lt;/p></description></item><item><title>Own shell in C</title><link>https://www.ris8z.com/projects/terminal-emuletor/</link><pubDate>Mon, 11 Mar 2024 22:04:04 +0100</pubDate><guid>https://www.ris8z.com/projects/terminal-emuletor/</guid><description>&lt;p>Own Shell: developed using C, can handle input file (batch mode), I/O redirection, background
 mode and simple error handling. Forking process and file descriptor concepts have been used. Also
-created a comprehensive documentation and a short user manual.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Python Minecraft Farming BOT</title>
-      <link>http://localhost:1313/projects/minecraft-farm-bot/</link>
-      <pubDate>Mon, 11 Dec 2023 22:04:07 +0100</pubDate>
-      
-      <guid>http://localhost:1313/projects/minecraft-farm-bot/</guid>
-      
-      <description>&lt;p&gt;Python Minecraft Farming BOT: implemented using pyauto, time and keyboard modules. Designed
+created a comprehensive documentation and a short user manual.&lt;/p></description></item><item><title>Python Minecraft Farming BOT</title><link>https://www.ris8z.com/projects/minecraft-farm-bot/</link><pubDate>Mon, 11 Dec 2023 22:04:07 +0100</pubDate><guid>https://www.ris8z.com/projects/minecraft-farm-bot/</guid><description>&lt;p>Python Minecraft Farming BOT: implemented using pyauto, time and keyboard modules. Designed
 to automate the boring aspects of the game, even add some basic logic to read the logs and
-understand the best time to start and stop selling items&lt;/p&gt;</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+understand the best time to start and stop selling items&lt;/p></description></item></channel></rss>

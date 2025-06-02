@@ -6,7 +6,7 @@ draft = false
 
 ## Demo 
 
-<video controls autoplay loop muted playsinline width="650">
+<video controls autoplay loop muted playsinline style="width: 100%; height: auto;">
   <source src="snake.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

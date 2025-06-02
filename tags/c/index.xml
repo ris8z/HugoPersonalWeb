@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C on ris8z</title><link>https://www.ris8z.com/tags/c/</link><description>Recent content in C on ris8z</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Tue, 11 Jun 2024 22:04:07 +0100</lastBuildDate><atom:link href="https://www.ris8z.com/tags/c/index.xml" rel="self" type="application/rss+xml"/><item><title>Rendering a 3D Donut in the terminal</title><link>https://www.ris8z.com/projects/rendering-3d-donut/</link><pubDate>Tue, 11 Jun 2024 22:04:07 +0100</pubDate><guid>https://www.ris8z.com/projects/rendering-3d-donut/</guid><description>&lt;h2 id="demo">Demo&lt;/h2>
+&lt;video controls autoplay loop muted playsinline width="650">
+ &lt;source src="donut.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+&lt;/video>
+&lt;h2 id="descripiton">Descripiton&lt;/h2>
+&lt;p>Rendering a 3D Donut in the terminal: created from scratch using C and concepts such as
+Prospective, Light Model , Matrix Transformation. This project increased understanding of Linear
+Algebra.&lt;/p>
+&lt;h2 id="code--more-info">Code &amp;amp; more Info&lt;/h2>
+&lt;p>&lt;a href="https://github.com/ris8z/Donut?tab=readme-ov-file">Github public repo&lt;/a>&lt;/p></description></item></channel></rss>

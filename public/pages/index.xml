@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on ris8z</title><link>https://www.ris8z.com/pages/</link><description>Recent content in Pages on ris8z</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sat, 12 Oct 2024 00:37:50 +0100</lastBuildDate><atom:link href="https://www.ris8z.com/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://www.ris8z.com/pages/resume/</link><pubDate>Sat, 12 Oct 2024 00:37:50 +0100</pubDate><guid>https://www.ris8z.com/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on ris8z</title><link>https://www.ris8z.com/pages/</link><description>Recent content in Pages on ris8z</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><atom:link href="https://www.ris8z.com/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://www.ris8z.com/pages/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ris8z.com/pages/resume/</guid><description>&lt;h2 id="third-level-education">Third Level Education&lt;/h2>
 &lt;p>&lt;strong>Dublin City University (DCU), Ireland&lt;/strong>&lt;br>
-&lt;em>B.Sc. in Computer Applications – Year 3 (Ongoing)&lt;/em>&lt;/p>
+&lt;em>B.Sc. in Computer Science – Year 3 (Ongoing)&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>Achieved a &lt;strong>First Class Honours (1.1)&lt;/strong> in 2nd year&lt;/li>
 &lt;li>Ranked &lt;strong>Top 5 overall&lt;/strong> in the 2nd year &lt;em>PassList&lt;/em>&lt;/li>
@@ -19,7 +19,7 @@
 &lt;h3 id="it-skills">IT Skills&lt;/h3>
 &lt;ul>
 &lt;li>&lt;strong>Languages:&lt;/strong> Python, Java, C, JavaScript, Prolog, R, Haskell&lt;/li>
-&lt;li>&lt;strong>Back-end:&lt;/strong> Django, Flask (Python); Spring Boot, custom legacy Java frameworks&lt;/li>
+&lt;li>&lt;strong>Back-end:&lt;/strong> Django, Flask (Python); Spring Boot (Java)&lt;/li>
 &lt;li>&lt;strong>Front-end:&lt;/strong> React, Bootstrap, HTML5/CSS3&lt;/li>
 &lt;li>&lt;strong>DevOps:&lt;/strong> Git, GitHub, GitLab, Docker, Shell scripting, AWS&lt;/li>
 &lt;li>&lt;strong>Operating Systems:&lt;/strong> Confident with GNU/Linux and terminal environments&lt;/li>

@@ -45,7 +45,7 @@ theme = "hugo-blog-awesome"
 	[markup.tableOfContents]
 		startLevel = 2 # ToC starts from H2
 		endLevel = 4 # ToC ends at H4
-		ordered = false # generates <ul> instead of <ol>
+		ordered = true # generates <ul> instead of <ol>
 
 ############################## English language ################################
 [Languages.en-gb]
@@ -75,7 +75,7 @@ theme = "hugo-blog-awesome"
 
 [Languages.en-gb.params]
   sitename = "Giuseppe Esposito"
-  defaultColor = "dark" # set color mode: dark, light, auto
+  defaultColor = "auto" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
